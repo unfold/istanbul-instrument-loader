@@ -4,6 +4,6 @@
   "author": "Simen Brekken <simen@unfold.no>",
   "description": "instanbul instrument loader module for webpack",
   "dependencies": {
-    "istanbul": "^0.2.6"
+    "istanbul": "^0.4.5"
   }
 }
